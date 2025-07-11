@@ -11,4 +11,4 @@
 ## 🛠️ Languages & Tools
 `Python` `SQL` `Pandas` `Scikit-learn` `Power BI` `Java` `C++`'Numpy'
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshada123&show_icons=true&theme=radical)
+
